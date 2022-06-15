@@ -1,0 +1,14 @@
+.header {
+  font-size: larger;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  padding: 20px;
+  background-color: rgb(33, 0, 63);
+}
+
+.header nav a {
+  margin-left: 20px;
+  text-decoration: none;
+  font-weight: 700;
+  color: aliceblue;
+}
