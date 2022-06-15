@@ -6,7 +6,7 @@ const Login = () => {
 
   return (
     <div className="conatiner">
-      <h1>Login</h1>
+      <h1>Please Login</h1>
       <div className="app-signin">
         <button onClick={signInWithGoogle}>Google </button>
         <button>Facebook </button>
